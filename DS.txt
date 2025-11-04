@@ -46,6 +46,7 @@
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,https://cdn6.163189.xyz/live/wxxw/stream.m3u8
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
@@ -59,6 +60,7 @@
 中天新闻,https://tv543.cc/Smart.php?id=ctinews
 中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
+中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
 
 中天新闻+,http://iptv.4666888.xyz/iptv2.php?id=142
 中天新闻+,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
@@ -67,8 +69,10 @@
 
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
+Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
+有线新闻,http://hls.168.us.kg/u/78/master.m3u8
 有线新闻,http://feng163.com:8003/bysid/78.m3u8
 
 寰宇新闻台,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
@@ -82,6 +86,7 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/GeWKr
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台,http://free.cnlive.club/channel/n7549189d/index.m3u8?q=1759400332590
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
@@ -93,6 +98,7 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://hls.168.us.kg/u/84/master.m3u8
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 明珠台,http://free.cnlive.club/channel/n75ab7db0/index.m3u8?q=1759400332590
 
@@ -129,6 +135,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,http://tcl33.xrk.top:8086/hls/42/index.m3u8
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://222.128.55.152:9080/live/gdty.m3u8
@@ -151,6 +158,13 @@ CCTV16,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
 CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV16,http://tv.netlive.ggff.net/cctv16
 CCTV16,webview://https://tv.cctv.com/live/cctv16/
+
+Now-Sports,http://hls.168.us.kg/u/630/master.m3u8
+
+Viu-TV全运1台,http://hls.168.us.kg/u/961/master.m3u8
+Viu-TV全运2台,http://hls.168.us.kg/u/961/master.m3u8
+Viu-TV全运3台,http://hls.168.us.kg/u/961/master.m3u8
+Viu-TV全运4台,http://hls.168.us.kg/u/961/master.m3u8
 
 超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
 
@@ -285,6 +299,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 
+大湾区卫视,http://tcl33.xrk.top:8086/hls/29/index.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-26.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-9.m3u8
