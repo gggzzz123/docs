@@ -53,17 +53,17 @@
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB
-中天新闻,http://publish.ws.huajiao.com/live/ogVoQHdCmlYGdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv?%E5%85%AD%E6%9C%8D
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,https://tv543.cc/Smart.php?id=ctinews
 中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
 中天新闻,rtmp://123.161.179.74/live/yifatv-ztxw01
+中天新闻,http://publish.ws.huajiao.com/live/ogVoQHdCmlYGdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv?%E5%85%AD%E6%9C%8D
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB
 
 中天新闻+,http://iptv.4666888.xyz/iptv2.php?id=142
 中天新闻+,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
