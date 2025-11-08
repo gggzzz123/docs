@@ -76,6 +76,7 @@ Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=HOY78
 有线新闻,http://feng163.com:8003/bysid/78.m3u8
 有线新闻,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 
@@ -152,6 +153,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 
 
 体育,#genre#
+广东体育,http://113.81.20.168:20443/tsfile/live/1003_1.m3u8
 广东体育,http://m.061899.xyz/mg/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -291,19 +293,13 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=5ff1096b35315317f7faae1e10e2c590&txTime=195d62d709d
 
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=a2793a0c35b33608fff2a38d2246ce5d&txTime=195d62d709d
-南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tp88.cn/IPTV/guangdong/gztv.php?id=shenghuo
 南国都市,http://r.jdshipin.com/nWaZO
+南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 南国都市,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzngds
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
-
-广州影视,http://tp88.cn/IPTV/guangdong/gztv.php?id=yingshi
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州影视,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzys
-广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州法治,http://tp88.cn/IPTV/guangdong/gztv.php?id=fazhi
@@ -314,12 +310,14 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
 
+广东新闻,http://113.81.20.168:20443/tsfile/live/1008_1.m3u8
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 
+大湾区卫视,http://113.81.20.168:20443/tsfile/live/1004_1.m3u8
 大湾区卫视,http://tcl33.xrk.top:8086/hls/29/index.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-26.m3u8
@@ -331,12 +329,16 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 
 4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
 
+广东民生,http://113.81.20.168:20443/tsfile/live/1006_1.m3u8
 广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
 
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
 
+广东少儿,http://113.81.20.168:20443/tsfile/live/1007_1.m3u8
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
+
+经济科教,http://113.81.20.168:20443/tsfile/live/1002_1.m3u8
 
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 
@@ -344,6 +346,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 
 广东台经典剧,webview://https://www.gdtv.cn/tvChannelDetail/100
 
+广东影视,http://113.81.20.168:20443/tsfile/live/1005_1.m3u8
 广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
 
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
