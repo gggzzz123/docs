@@ -53,7 +53,7 @@
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
@@ -153,8 +153,8 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 
 
 体育,#genre#
-广东体育,http://113.81.20.168:20443/tsfile/live/1003_1.m3u8
 广东体育,http://m.061899.xyz/mg/gdty
+广东体育,http://go.bkpcp.top/mg/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
@@ -310,18 +310,20 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
 
-广东新闻,http://113.81.20.168:20443/tsfile/live/1008_1.m3u8
+广东新闻,http://m.061899.xyz/mg/gdxw
+广东新闻,http://go.bkpcp.top/mg/gdxw
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 
+广东珠江,http://m.061899.xyz/mg/gdzj
+广东珠江,http://go.bkpcp.top/mg/gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 
-大湾区卫视,http://113.81.20.168:20443/tsfile/live/1004_1.m3u8
-大湾区卫视,http://tcl33.xrk.top:8086/hls/29/index.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-26.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-9.m3u8
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
 大湾区卫视,http://113.15.109.216:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
 
@@ -329,16 +331,14 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 
 4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
 
-广东民生,http://113.81.20.168:20443/tsfile/live/1006_1.m3u8
+广东民生,http://m.061899.xyz/mg/gdms
+广东民生,http://go.bkpcp.top/mg/gdms
 广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
 
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
 
-广东少儿,http://113.81.20.168:20443/tsfile/live/1007_1.m3u8
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
-
-经济科教,http://113.81.20.168:20443/tsfile/live/1002_1.m3u8
 
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 
@@ -346,7 +346,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 
 广东台经典剧,webview://https://www.gdtv.cn/tvChannelDetail/100
 
-广东影视,http://113.81.20.168:20443/tsfile/live/1005_1.m3u8
+广东影视,http://go.bkpcp.top/mg/gdys
 广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
 
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
