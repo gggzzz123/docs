@@ -53,7 +53,7 @@
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
@@ -78,6 +78,7 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=HOY78
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻,http://feng163.com:8003/bysid/78.m3u8
 有线新闻,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 
@@ -108,6 +109,8 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 明珠台,http://free.cnlive.club/channel/n75ab7db0/index.m3u8?q=1759400332590
+
+HOY77,http://cdn.163189.xyz/163189/hoy
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
@@ -155,6 +158,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 
 体育,#genre#
 广东体育,http://m.061899.xyz/mg/gdty
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://go.bkpcp.top/mg/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -326,6 +330,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-9.m3u8
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
 大湾区卫视,http://113.15.109.216:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://120.46.223.160/PHP/MG.php?id=608917627
 大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
 
 大湾区卫视(海外版),webview://https://www.gdtv.cn/tvChannelDetail/56
