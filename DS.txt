@@ -954,12 +954,6 @@ AsiaFM亚洲粤语台,https://lhttp.qingting.fm/live/15318569/64k.mp3
 
 2ac澳洲华人普通话台,http://s1.voscast.com:10556/stream
 
-2CR澳洲中文广播电台,http://s6.voscast.com:8016/
-
-希望之声澳洲粤语,http://sohcan.out.airtime.pro:8000/sohcan_a
-
-西澳华语广播电台,http://streamer2.rightclickitservices.com:7200/
-
 全澳华语广播华夏之声,http://46.4.40.246:8059/stream?1686389279405
 
 星岛中文电台粤语广播,http://nap.casthost.net:8765/
