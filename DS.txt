@@ -45,10 +45,10 @@
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,http://rihou.cc:555/tv/Hk|无线新闻
-无线新闻,http://rihou.cc:555/tv/Mt|无线新闻
-无线新闻,http://rihou.cc:555/tv/Bx|无线新闻
-无线新闻,http://rihou.cc:8/无线新闻
+无线新闻,http://rihou.cc:555/tv/Hkl无线新闻
+无线新闻,http://rihou.cc:555/tv/Mtl无线新闻
+无线新闻,http://rihou.cc:555/tv/Bxl无线新闻
+无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://free.cnlive.club/channel/n3fad9608/index.m3u8?q=1759400332590
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
@@ -60,12 +60,11 @@
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,https://smart.dxjc.pp.ua/smt.php?id=inews_twn
-无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://rihou.cc:555/tv/Hk|中天新闻
-中天新闻,http://rihou.cc:555/tv/Bx|中天新闻
+中天新闻,http://rihou.cc:555/tv/Hkl中天新闻
+中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
@@ -83,20 +82,20 @@
 
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
-Now新闻,http://rihou.cc:555/tv/Hk|Now新闻
-Now新闻,http://rihou.cc:555/tv/Mt|Now新闻
+Now新闻,http://rihou.cc:555/tv/HklNow新闻
+Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 有线新闻-HOY78,http://hls.168.us.kg/u/78/master.m3u8
-有线新闻-HOY78,http://rihou.cc:555/tv/Mt|有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/Mtl有线新闻
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=HOY78
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻-HOY78,https://smart.dxjc.pp.ua/smt.php?id=hoycaijing_twn
 有线新闻-HOY78,http://feng163.com:8003/bysid/78.m3u8
 有线新闻-HOY78,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 
-寰宇新闻台,http://rihou.cc:555/tv/Hk|寰宇新闻
+寰宇新闻台,http://rihou.cc:555/tv/Hkl寰宇新闻
 寰宇新闻台,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
 寰宇新闻台,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
 寰宇新闻台,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
