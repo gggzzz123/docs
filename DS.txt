@@ -64,8 +64,7 @@
 
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://rihou.cc:555/tv/SZl中天新闻
-中天新闻,http://rihou.cc:555/tv/4Gl中天新闻
-中天新闻,http://rihou.cc:555/tv/Hkl中天新闻
+中天新闻,http://rihou.cc:555/tv/STl中天新闻
 中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
@@ -85,20 +84,20 @@
 
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
-Now新闻,http://rihou.cc:555/tv/HklNow新闻
 Now新闻,http://rihou.cc:555/tv/MtlNow新闻
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 有线新闻-HOY78,http://hls.168.us.kg/u/78/master.m3u8
 有线新闻-HOY78,http://rihou.cc:555/tv/Mtl有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/STl有线新闻
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=HOY78
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻-HOY78,https://smart.dxjc.pp.ua/smt.php?id=hoycaijing_twn
 有线新闻-HOY78,http://feng163.com:8003/bysid/78.m3u8
 有线新闻-HOY78,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 
-寰宇新闻台,http://rihou.cc:555/tv/4Gl寰宇新闻
+寰宇新闻台,http://rihou.cc:555/tv/STl寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/Hkl寰宇新闻
 寰宇新闻台,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
 寰宇新闻台,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
