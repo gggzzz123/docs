@@ -63,6 +63,7 @@
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,http://rihou.cc:555/tv/HkI中天新闻
 中天新闻,http://rihou.cc:555/tv/SZl中天新闻
 中天新闻,http://rihou.cc:555/tv/STl中天新闻
 中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
@@ -90,6 +91,7 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 有线新闻-HOY78,http://hls.168.us.kg/u/78/master.m3u8
 有线新闻-HOY78,http://rihou.cc:555/tv/Mtl有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/FYl有线新闻
 有线新闻-HOY78,http://rihou.cc:555/tv/STl有线新闻
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=HOY78
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
