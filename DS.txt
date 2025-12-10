@@ -77,22 +77,18 @@
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
-中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
-中天新闻,http://rihou.cc:555/tv/[ST]中天新闻
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
+中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
+中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
-中天新闻,https://tzh911.qzz.io/play-smt.php?id=ctinews
 中天新闻,http://156.239.254.7:5555/smt.php?id=ctinews
-中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-中天新闻,https://tv543.cc/Smart.php?id=ctinews
-中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
 
 中天新闻+,http://iptv.4666888.xyz/iptv2.php?id=142
 中天新闻+,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
@@ -116,7 +112,6 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 有线新闻-HOY78,http://feng163.com:8003/bysid/78.m3u8
 有线新闻-HOY78,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 有线新闻-HOY78,http://hls-pull-wicketpw.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzls4gD05KeGhG.flv
-
 
 寰宇新闻台,http://rihou.cc:555/tv/[Hk]寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/[ST]寰宇新闻
@@ -161,6 +156,9 @@ HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,https://cdn6.101.qzz.io/163189/hoy
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 
 TVBJ1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 
