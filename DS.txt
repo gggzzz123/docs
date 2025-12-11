@@ -62,6 +62,7 @@
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 无线新闻,http://rihou.cc:555/tv/[Bx]无线新闻
+无线新闻,http://rihou.cc:555/tv/[SZ]无线新闻
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,http://free.cnlive.club/channel/n3fad9608/index.m3u8?q=1759400332590
@@ -77,9 +78,11 @@
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
+中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
@@ -99,6 +102,7 @@ Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
+Now新闻,http://rihou.cc:555/tv/[4G]Now新闻
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
