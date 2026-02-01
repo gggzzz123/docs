@@ -87,9 +87,11 @@
 
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Uk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
 中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
+中天新闻,https://live.catvod.com/live.php?id=ctinews
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
@@ -122,10 +124,14 @@ Now新闻,http://rihou.cc:555/tv/[4G]Now新闻
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
-有线新闻-HOY78,http://hls.168.us.kg/u/78/master.m3u8
-有线新闻-HOY78,http://rihou.cc:555/tv/[Mt]有线新闻
 有线新闻-HOY78,http://rihou.cc:555/tv/[FY]有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/[DB]有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/[Hk]有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/[Mt]有线新闻
 有线新闻-HOY78,http://rihou.cc:555/tv/[ST]有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/[Uk]有线新闻
+有线新闻-HOY78,http://rihou.cc:555/tv/[Hv]有线新闻
+有线新闻-HOY78,http://hls.168.us.kg/u/78/master.m3u8
 有线新闻-HOY78,http://free.cnlive.club/channel/7289243e.m3u8
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=HOY78
@@ -239,6 +245,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 广东体育,http://rihou.cc:555/tv/[AtI]广东体育
 广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 广东体育,http://rihou.cc:555/tv/[Cg]广东体育
+广东体育,http://rihou.cc:555/tv/[Uk]广东体育
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
@@ -254,6 +261,7 @@ CCTV5体育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/322122673
 CCTV5体育,http://hls.netlive.ggff.net/hls/cctv5.m3u8
 CCTV5体育,http://tv.netlive.ggff.net/cctv5
 CCTV5体育,webview://https://tv.cctv.com/live/cctv5/
+CCTV5体育,webview://https://yangshipin.cn/tv/home?pid=600001818
 
 CCTV5+体育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 CCTV5+体育,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
@@ -261,6 +269,7 @@ CCTV5+体育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/32212267
 CCTV5+体育,http://hls.netlive.ggff.net/hls/cctv5p.m3u8
 CCTV5+体育,http://tv.netlive.ggff.net/cctv5p
 CCTV5+体育,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV5+体育,webview://https://yangshipin.cn/tv/home?pid=600001817
 
 CCTV16奥林匹克,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
 CCTV16奥林匹克,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
@@ -268,6 +277,7 @@ CCTV16奥林匹克,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/32
 CCTV16奥林匹克,http://tv.netlive.ggff.net/cctv16
 CCTV16奥林匹克,http://hls.netlive.ggff.net/hls/cctv16.m3u8
 CCTV16奥林匹克,webview://https://tv.cctv.com/live/cctv16/
+CCTV16奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
 
 Now-Sports,http://hls.168.us.kg/u/630/master.m3u8
 
@@ -295,6 +305,7 @@ CCTV13新闻,http://tv.netlive.ggff.net/cctv13
 CCTV13新闻,http://hls.netlive.ggff.net/hls/cctv13.m3u8
 CCTV13新闻,webview://https://tv.cctv.com/live/cctv13/
 CCTV13新闻,webview://https://v.lib.tju.edu.cn/tv-show-detail/42
+CCTV13新闻,webview://https://yangshipin.cn/tv/home?pid=600001811
 
 CCTV1综合,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
@@ -304,12 +315,14 @@ CCTV1综合,http://hls.netlive.ggff.net/hls/cctv1.m3u8
 CCTV1综合,http://tv.netlive.ggff.net/cctv1
 CCTV1综合,webview://https://tv.cctv.com/live/cctv1/
 CCTV1综合,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
+CCTV1综合,webview://https://yangshipin.cn/tv/home?pid=600001859
 
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
 CCTV2财经,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
 CCTV2财经,http://hls.netlive.ggff.net/hls/cctv2.m3u8
 CCTV2财经,http://tv.netlive.ggff.net/cctv2
 CCTV2财经,webview://https://tv.cctv.com/live/cctv2/
+CCTV2财经,webview://https://yangshipin.cn/tv/home?pid=600001800
 
 CCTV3综艺,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
 CCTV3综艺,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
@@ -320,37 +333,44 @@ CCTV4中文国际,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
 CCTV4中文国际,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
 CCTV4中文国际,http://hls.netlive.ggff.net/hls/cctv4.m3u8
 CCTV4中文国际,webview://https://tv.cctv.com/live/cctv4/
+CCTV4中文国际,webview://https://yangshipin.cn/tv/home?pid=600001814
 
 CCTV6电影,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
 CCTV6电影,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
 CCTV6电影,http://hls.netlive.ggff.net/hls/cctv6.m3u8
 CCTV6电影,webview://https://tv.cctv.com/live/cctv6/
+CCTV6电影,webview://https://yangshipin.cn/tv/home?pid=600108442
 
 CCTV7国防军事,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226721/1.m3u8
 CCTV7国防军事,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
 CCTV7国防军事,http://hls.netlive.ggff.net/hls/cctv7.m3u8
 CCTV7国防军事,webview://https://tv.cctv.com/live/cctv7/
+CCTV7国防军事,webview://https://yangshipin.cn/tv/home?pid=600004092
 
 CCTV8电视剧,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
 CCTV8电视剧,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
 CCTV8电视剧,http://hls.netlive.ggff.net/hls/cctv8.m3u8
 CCTV8电视剧,webview://https://tv.cctv.com/live/cctv8/
+CCTV8电视剧,webview://https://yangshipin.cn/tv/home?pid=600001803
 
 CCTV9纪录,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226651/1.m3u8
 CCTV9纪录,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
 CCTV9纪录,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
 CCTV9纪录,http://hls.netlive.ggff.net/hls/cctv9.m3u8
 CCTV9纪录,webview://https://tv.cctv.com/live/cctv9/
+CCTV9纪录,webview://https://yangshipin.cn/tv/home?pid=600004078
 
 CCTV10科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
 CCTV10科教,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
 CCTV10科教,http://hls.netlive.ggff.net/hls/cctv10.m3u8
 CCTV10科教,webview://https://tv.cctv.com/live/cctv10/
+CCTV10科教,webview://https://yangshipin.cn/tv/home?pid=600001805
 
 CCTV11戏曲,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
 CCTV11戏曲,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
 CCTV11戏曲,http://hls.netlive.ggff.net/hls/cctv11.m3u8
 CCTV11戏曲,webview://https://tv.cctv.com/live/cctv11/
+CCTV11戏曲,webview://https://yangshipin.cn/tv/home?pid=600001806
 
 CCTV12社会与法,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226748/1.m3u8
 CCTV12社会与法,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
@@ -358,6 +378,7 @@ CCTV12社会与法,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
 CCTV12社会与法,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226748/1.m3u8
 CCTV12社会与法,http://hls.netlive.ggff.net/hls/cctv12.m3u8
 CCTV12社会与法,webview://https://tv.cctv.com/live/cctv12/
+CCTV12社会与法,webview://https://yangshipin.cn/tv/home?pid=600001807
 
 CCTV14少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
 CCTV14少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
@@ -365,11 +386,13 @@ CCTV14少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
 CCTV14少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226663/1.m3u8
 CCTV14少儿,http://hls.netlive.ggff.net/hls/cctv14.m3u8
 CCTV14少儿,webview://https://tv.cctv.com/live/cctv14/
+CCTV14少儿,webview://https://yangshipin.cn/tv/home?pid=600001809
 
 CCTV15音乐,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
 CCTV15音乐,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
 CCTV15音乐,http://hls.netlive.ggff.net/hls/cctv15.m3u8
 CCTV15音乐,webview://https://tv.cctv.com/live/cctv15/
+CCTV15音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
 
 CCTV17农业农村,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 CCTV17农业农村,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
@@ -377,6 +400,7 @@ CCTV17农业农村,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 CCTV17农业农村,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226727/1.m3u8
 CCTV17农业农村,http://hls.netlive.ggff.net/hls/cctv17.m3u8
 CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17/
+CCTV17农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
 
 
 广东,#genre#
