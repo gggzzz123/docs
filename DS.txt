@@ -1,4 +1,5 @@
 三地外,#genre#
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
@@ -11,7 +12,6 @@
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰中文,http://free.cnlive.club/channel/n496e6eec.m3u8
-凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=电话&pwd=密码
 凤凰中文,http://hls-pull-wicketpw.speedws.com/live/tpDBWXTxdhzoUu1gnH20ubQyeRGHXkgd39g6Lls4gDyvqoOh0v.flv
 凤凰中文,http://j.s.bkpcp.top/js/fhzw
 凤凰中文,http://m.061899.xyz/mg/fhzw
@@ -22,6 +22,7 @@
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
@@ -40,9 +41,9 @@
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=电话&pwd=密码
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
@@ -58,7 +59,6 @@
 凤凰香港,http://m.061899.xyz/mg/fhhk
 凤凰香港,http://hls-pull-wicketpw.speedws.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRls4gDgUTYwb5D.flv
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=电话&pwd=密码
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -91,6 +91,7 @@
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
 中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
+中天新闻,http://vip.bhh.indevs.in/smt2.php?id=ctinews
 中天新闻,https://live.catvod.com/live.php?id=ctinews
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
@@ -250,6 +251,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://tcl33.xrk.top:8086/hls/42/index.m3u8
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://222.128.55.152:9080/live/gdty.m3u8
@@ -1081,10 +1083,4 @@ AsiaFM亚洲粤语台,https://lhttp.qingting.fm/live/15318569/64k.mp3
 星岛中文电台粤语广播,http://nap.casthost.net:8765/
 
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
-中广新闻网,http://n10.rcs.revma.com/fgtx07f3qtzuv?rj-ttl=5&rj-tok=AAABiJC78TIAcjuyhcD5bbQxqA
-
-NEW98新闻台,http://stream.rcs.revma.com/55tyxsy4qtzuv
-
-新西兰中文广播电台,http://s26.myradiostream.com:80/:20274/listen.mp3
-
-
+中广新闻网,
