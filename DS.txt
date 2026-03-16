@@ -2,6 +2,7 @@
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw?
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
@@ -258,10 +259,14 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 
 体育,#genre#
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-广东体育,http://go.bkpcp.top/mg/gdty
 广东体育,http://m.061899.xyz/mg/gdty
+广东体育,http://go.bkpcp.top/mg/gdty
 广东体育,http://cdn.163189.xyz/163189/gdty
 广东体育,https://cdn2.163189.xyz/163189/gdty
+广东体育,http://115.190.252.60:20508/sports.php?id=gdty
+广东体育,http://183.62.8.58:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://115.29.208.41:34567/gd.php?id=47
+广东体育,http://115.29.208.41:34567/gd.php?id=1184
 广东体育,http://119.123.77.106:8086/hls/42/index.m3u8
 广东体育,http://119.123.176.46:8086/hls/42/index.m3u8
 广东体育,http://119.123.176.249:8086/hls/42/index.m3u8
@@ -308,20 +313,7 @@ CCTV16奥林匹克,http://hls.netlive.ggff.net/hls/cctv16.m3u8
 CCTV16奥林匹克,webview://https://tv.cctv.com/live/cctv16/
 CCTV16奥林匹克,webview://https://yangshipin.cn/tv/home?pid=600098637
 
-Now-Sports,http://hls.168.us.kg/u/630/master.m3u8
-
-Viu-TV全运1台,http://hls.168.us.kg/u/961/master.m3u8
-Viu-TV全运2台,http://hls.168.us.kg/u/962/master.m3u8
-Viu-TV全运3台,http://hls.168.us.kg/u/963/master.m3u8
-Viu-TV全运4台,http://hls.168.us.kg/u/964/master.m3u8
-
-超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
-
-五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
-
-北京体育休闲,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
-
-安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+五星体育,http://115.190.252.60:20508/sports.php?id=wxty
 
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -463,19 +455,28 @@ CCTV17农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
 
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
 广东卫视,http://hls.netlive.ggff.net/hls/gdws.m3u8
+广东卫视,http://115.29.208.41:34567/gd.php?id=2567
+广东卫视,http://115.29.208.41:34567/gd.php?id=43
+广东卫视,http://115.29.208.41:34567/gd.php?id=1182
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
 
 广东新闻,http://m.061899.xyz/mg/gdxw
 广东新闻,http://go.bkpcp.top/mg/gdxw
+广东新闻,http://115.29.208.41:34567/gd.php?id=45
+广东新闻,http://115.29.208.41:34567/gd.php?id=1186
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 
 广东珠江,http://m.061899.xyz/mg/gdzj
 广东珠江,http://go.bkpcp.top/mg/gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,http://115.29.208.41:34567/gd.php?id=44
+广东珠江,http://115.29.208.41:34567/gd.php?id=1183
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 
+大湾区卫视,http://115.29.208.41:34567/gd.php?id=51
+大湾区卫视,http://115.29.208.41:34567/gd.php?id=1197
 大湾区卫视,http://119.123.77.106:8086/hls/29/index.m3u8
 大湾区卫视,http://119.123.176.46:8086/hls/29/index.m3u8
 大湾区卫视,http://119.123.176.249:8086/hls/29/index.m3u8
@@ -489,27 +490,42 @@ CCTV17农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
 大湾区卫视,http://120.46.223.160/PHP/MG.php?id=608917627
 大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
 
+大湾区卫视(海外版),http://115.29.208.41:34567/gd.php?id=46
+大湾区卫视(海外版),http://115.29.208.41:34567/gd.php?id=1191
 大湾区卫视(海外版),webview://https://www.gdtv.cn/tvChannelDetail/56
 
-4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+广东4K超高清,http://115.29.208.41:34567/gd.php?id=1198
+广东4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
 
 广东民生,http://m.061899.xyz/mg/gdms
 广东民生,http://go.bkpcp.top/mg/gdms
 广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
+广东民生,http://115.29.208.41:34567/gd.php?id=48
+广东民生,http://115.29.208.41:34567/gd.php?id=1185
 广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
 
+岭南戏曲,http://115.29.208.41:34567/gd.php?id=15
+岭南戏曲,http://115.29.208.41:34567/gd.php?id=2510
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
 
+广东少儿,http://115.29.208.41:34567/gd.php?id=54
+广东少儿,http://115.29.208.41:34567/gd.php?id=1200
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 
+嘉佳卡通,http://115.29.208.41:34567/gd.php?id=66
+嘉佳卡通,http://115.29.208.41:34567/gd.php?id=1187
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 
+广东移动,http://115.29.208.41:34567/gd.php?id=74
+广东移动,http://115.29.208.41:34567/gd.php?id=2463
 广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
 
 广东台经典剧,webview://https://www.gdtv.cn/tvChannelDetail/100
 
 广东影视,http://m.061899.xyz/mg/gdys
 广东影视,http://go.bkpcp.top/mg/gdys
+广东影视,http://115.29.208.41:34567/gd.php?id=53
+广东影视,http://115.29.208.41:34567/gd.php?id=1199
 广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
 
 纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
@@ -1107,6 +1123,4 @@ AsiaFM亚洲音乐台			http://lhttp.qtfm.cn/live/5022405/64k.mp3
 						https://lhttp.qingting.fm/live/5022405/64k.mp3
 						
 怀集音乐之声				http://live.xmcdn.com/live/1205/64.m3u8
-						http://live.xmcdn.com/live/966/64.m3u8
-
-两广之声音乐台			https://lhttp.qtfm.cn/live/20500149/64k.mp3
+						http://live.xmcdn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
