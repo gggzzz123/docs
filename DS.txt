@@ -1,9 +1,9 @@
 三地外,#genre#
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw?
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw?
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -92,13 +92,13 @@
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
 中天新闻,http://rihou.cc:555/tv/中天新闻
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
-中天新闻,http://47.104.163.156:50/台湾.php?id=ztxw
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-中天新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+中天新闻,http://47.104.163.156:50/台湾.php?id=ztxw
+中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
+中天新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Us]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Uk]中天新聞
@@ -124,7 +124,6 @@
 中天新闻,http://156.239.254.7:5555/smt.php?id=ctinews
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 
 中天新闻+,http://iptv.4666888.xyz/iptv2.php?id=142
 中天新闻+,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
@@ -266,10 +265,12 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 
 体育,#genre#
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-广东体育,http://m.061899.xyz/mg/gdty
 广东体育,http://go.bkpcp.top/mg/gdty
+广东体育,http://m.061899.xyz/mg/gdty
 广东体育,http://cdn.163189.xyz/163189/gdty
 广东体育,https://cdn2.163189.xyz/163189/gdty
+广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://221.229.212.86:14975
 广东体育,http://115.190.252.60:20508/sports.php?id=gdty
 广东体育,http://183.62.8.58:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://115.29.208.41:34567/gd.php?id=47
@@ -292,7 +293,6 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 广东体育,http://tcl33.xrk.top:8086/hls/42/index.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
-广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://222.128.55.152:9080/live/gdty.m3u8
 广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
 
@@ -446,6 +446,7 @@ CCTV17农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
 广州新闻,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3002
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=5ff1096b35315317f7faae1e10e2c590&txTime=195d62d709d
 
+南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=a2793a0c35b33608fff2a38d2246ce5d&txTime=195d62d709d
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tp88.cn/IPTV/guangdong/gztv.php?id=shenghuo
@@ -1131,4 +1132,4 @@ AsiaFM亚洲音乐台			http://lhttp.qtfm.cn/live/5022405/64k.mp3
 						https://lhttp.qingting.fm/live/5022405/64k.mp3
 						
 怀集音乐之声				http://live.xmcdn.com/live/1205/64.m3u8
-						http://live.xmcdn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+						http://live.xmcdn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
