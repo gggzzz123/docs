@@ -119,7 +119,6 @@
 中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
 中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
-中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
 中天新闻,http://156.239.254.7:5555/smt.php?id=ctinews
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
@@ -156,26 +155,16 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 有线新闻-HOY78,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 有线新闻-HOY78,http://hls-pull-wicketpw.speedws.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zzls4gD05KeGhG.flv
 
-寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
-寰宇新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3lr7DlrofmlrDpl7vlj7A=
+寰宇新闻台,http://rihou.cc:555/tv/寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/[Hk]寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/[ST]寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/[Us]寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/[Uk]寰宇新闻
-寰宇新闻台,http://rihou.cc:555/tv/寰宇新闻
-寰宇新闻台,https://test.tvbjack.de5.net/proxy/a64907bd9691cc2a
-寰宇新闻台,http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true
-寰宇新闻台,http://free.cnlive.club/channel/n43c34be8.m3u8
-寰宇新闻台,http://cmtv.netlib.re/channel/757f39bb.m3u8
-寰宇新闻台,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
-寰宇新闻台,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-寰宇新闻台,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
-寰宇新闻台,http://220.132.15.209:5008/of-litv-longturn14/index.m3u8
 
-翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,https://cdn6.101.qzz.io/163189/fct4k
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://cdn6.163189.xyz/163189/fct4k
+翡翠台,https://cdn6.101.qzz.io/163189/fct4k
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡4K
 翡翠台,http://rihou.cc:555/tv/[Mt]无线翡翠
 翡翠台,http://rihou.cc:555/tv/[Bx]无线翡翠
@@ -267,6 +256,11 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://go.bkpcp.top/mg/gdty
 广东体育,http://m.061899.xyz/mg/gdty
+广东体育,http://rihou.cc:555/tv/[At|]广东体育
+广东体育,http://rihou.cc:555/tv/[AtI]广东体育
+广东体育,http://rihou.cc:555/tv/[Cx]广东体育
+广东体育,http://rihou.cc:555/tv/[Cg]广东体育
+广东体育,http://rihou.cc:555/tv/[Uk]广东体育
 广东体育,http://cdn.163189.xyz/163189/gdty
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -282,11 +276,6 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 广东体育,http://hello.ejoydom.com:9999/udp/239.77.0.112:5146
 广东体育,https://gd.luzong.cc.cd/gdty
 广东体育,https://test.tvbjack.de5.net/proxy/9a88df847e512abc
-广东体育,http://rihou.cc:555/tv/[At|]广东体育
-广东体育,http://rihou.cc:555/tv/[AtI]广东体育
-广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-广东体育,http://rihou.cc:555/tv/[Cg]广东体育
-广东体育,http://rihou.cc:555/tv/[Uk]广东体育
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
