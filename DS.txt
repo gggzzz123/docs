@@ -96,33 +96,11 @@
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-中天新闻,http://47.104.163.156:50/台湾.php?id=ztxw
-中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
-中天新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
+中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 中天新闻,http://rihou.cc:555/tv/[Us]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Uk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
 中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
-中天新闻,https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
-中天新闻,http://vip.bhh.indevs.in/smt2.php?id=ctinews
-中天新闻,https://live.catvod.com/live.php?id=ctinews
-中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
-中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-20.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-21.m3u8
-中天新闻,http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkkszxas.flv
-中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
-中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
-中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
-中天新闻,http://156.239.254.7:5555/smt.php?id=ctinews
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新闻,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
 
 中天新闻+,http://iptv.4666888.xyz/iptv2.php?id=142
 中天新闻+,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
@@ -160,6 +138,7 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 寰宇新闻台,http://rihou.cc:555/tv/[ST]寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/[Us]寰宇新闻
 寰宇新闻台,http://rihou.cc:555/tv/[Uk]寰宇新闻
+寰宇新闻台,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
@@ -235,7 +214,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,https://epg.pw/stream/781aa20d6f614e39bb1004490cccac6cb55acbf4b944444a82473dd06a45e988.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 体育,#genre#
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
+广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,http://go.bkpcp.top/mg/gdty
 广东体育,http://m.061899.xyz/mg/gdty
 广东体育,http://rihou.cc:555/tv/[At|]广东体育
@@ -244,7 +223,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 广东体育,http://rihou.cc:555/tv/[Cg]广东体育
 广东体育,http://rihou.cc:555/tv/[Uk]广东体育
 广东体育,http://cdn.163189.xyz/163189/gdty
-广东体育,https://cdn2.163189.xyz/163189/gdty
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://221.229.212.86:14975
 广东体育,http://115.190.252.60:20508/sports.php?id=gdty
