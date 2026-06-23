@@ -97,6 +97,7 @@
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
 中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
+中天新闻,rtmp://media.atmsiot.com/live/ztxw
 中天新闻,http://rihou.cc:555/tv/[Us]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Uk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
