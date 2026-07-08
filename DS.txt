@@ -47,6 +47,7 @@
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
+凤凰香港,http://zwg6818.vicp.net:28000/bysid/85
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -62,6 +63,7 @@
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
+无线新闻,http://zwg6818.vicp.net:28000/bysid/83
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -98,6 +100,7 @@
 中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
 中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
+中天新闻,rtmp://221.4.216.91/live/332123-ztxw
 中天新闻,http://rihou.cc:555/tv/[Us]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Uk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
@@ -169,6 +172,7 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
+明珠台,http://zwg6818.vicp.net:28000/bysid/02
 明珠台,https://cdn6.101.qzz.io/163189/mzt
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
@@ -410,6 +414,7 @@ CCTV17农业农村,webview://https://yangshipin.cn/tv/home?pid=600001810
 广东珠江,http://m.061899.xyz/mg/gdzj
 广东珠江,http://go.bkpcp.top/mg/gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
+广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://115.29.208.41:34567/gd.php?id=44
 广东珠江,http://115.29.208.41:34567/gd.php?id=1183
