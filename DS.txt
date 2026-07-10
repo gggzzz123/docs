@@ -93,18 +93,18 @@
 无线新闻,https://smart.dxjc.pp.ua/smt.php?id=inews_twn
 无线新闻,rtmp://nowast.net/live/yifatv-wxxw01
 
-中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
-中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
-中天新闻,rtmp://media.atmsiot.com/live/ztxw
-中天新闻,rtmp://221.4.216.91/live/332123-ztxw
-中天新闻,http://rihou.cc:555/tv/[Us]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Uk]中天新聞
+中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Us]中天新聞
+中天新闻,rtmp://media.atmsiot.com/live/ztxw
+中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
+中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://rihou.cc:555/tv/[4G]中天新闻
 中天新闻,http://rihou.cc:555/tv/[4G]中天新聞
+中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 
 中天新闻+,http://iptv.4666888.xyz/iptv2.php?id=142
 中天新闻+,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
