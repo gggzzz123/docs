@@ -100,8 +100,8 @@
 
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
+中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Uk]中天新聞
