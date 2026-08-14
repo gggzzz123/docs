@@ -1,4 +1,5 @@
 三地外,#genre#
+凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw?
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -23,6 +24,7 @@
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
@@ -44,6 +46,7 @@
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 
+凤凰香港,https://cdn6.cc.cd/163189/fhhk
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
@@ -63,6 +66,8 @@
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
+无线新闻,https://cdn6.cc.cd/163189/wxxw
+无线新闻,https://cdn6.cc.cd/163189/wxxwt
 无线新闻,http://zwg6818.vicp.net:28000/bysid/83
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -113,6 +118,7 @@
 中天新闻+,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天新闻+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztxw2.flv
 
+Now新闻,https://fast.hidns.vip/163189/now
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://test.tvbjack.de5.net/proxy/b9afaff2e8ad98c9
@@ -122,6 +128,7 @@ Now新闻,http://rihou.cc:555/tv/[4G]Now新闻
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
+有线新闻-HOY78,https://fast.hidns.vip/163189/hoy78
 有线新闻-HOY78,http://rihou.cc:555/tv/[Pd]有线新闻
 有线新闻-HOY78,http://rihou.cc:555/tv/[FY]有线新闻
 有线新闻-HOY78,http://rihou.cc:555/tv/[DB]有线新闻
@@ -224,6 +231,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 
 
 体育,#genre#
+广东体育,https://2.fast.hidns.vip/163189/gdty
 广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,http://go.bkpcp.top/mg/gdty
