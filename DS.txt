@@ -89,7 +89,9 @@
 
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
+中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
+中天新闻,http://45.192.97.170:8880/play/648.m3u8
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 中天新闻,http://rihou.cc:555/tv/[Pd]中天新闻
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
@@ -104,9 +106,9 @@
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
 中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
 中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
-中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
 
 Now新闻,https://fast.hidns.vip/163189/now
+Now新闻,http://45.192.97.170:8880/play/560.m3u8
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻,http://rihou.cc:555/tv/[4G]Now新闻
@@ -118,6 +120,7 @@ Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 有线新闻-HOY78,https://fast.hidns.vip/163189/hoy78
 有线新闻-HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
+有线新闻-HOY78,http://45.192.97.170:8880/play/556.m3u8
 有线新闻-HOY78,http://rihou.cc:555/tv/[Pd]有线新闻
 有线新闻-HOY78,http://rihou.cc:555/tv/[FY]有线新闻
 有线新闻-HOY78,http://rihou.cc:555/tv/[DB]有线新闻
@@ -223,6 +226,7 @@ Discovery Asia,http://61.221.215.25:8800/hls/50/index.m3u8
 体育,#genre#
 广东体育,https://2.fast.hidns.vip/163189/gdty
 广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://45.192.97.170:8880/play/579.m3u8
 广东体育,http://rihou.cc:555/tv/[At|]广东体育
 广东体育,http://rihou.cc:555/tv/[AtI]广东体育
 广东体育,http://rihou.cc:555/tv/[Cx]广东体育
