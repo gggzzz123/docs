@@ -115,7 +115,6 @@
 中天新闻,https://4g.158.qzz.io/163189/60f5c767b807519a
 
 Now新闻,https://fast.hidns.vip/163189/now
-Now新闻,http://45.192.97.170:8880/play/1014.m3u8
 Now新闻,mitv://135.148.104.228:19806/6ae51fbac13b41cf8fc7becc85e13932
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://rihou.cc:555/tv/[Hk]Now新闻
@@ -123,9 +122,6 @@ Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻,http://rihou.cc:555/tv/[4G]Now新闻
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,https://cdn.163189.xyz/163189/now
-Now新闻,https://test.tvbjack.de5.net/proxy/b9afaff2e8ad98c9
-Now新闻,http://hls.168.us.kg/u/332/master.m3u8
-Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 
 有线新闻-HOY78,https://fast.hidns.vip/163189/hoy78
 有线新闻-HOY78,http://45.192.97.170:8880/play/1010.m3u8
