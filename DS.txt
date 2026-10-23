@@ -2,9 +2,6 @@
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -22,13 +19,13 @@
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰中文,http://rihou.cc:555/tv/[Bx]凤凰中文
 
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -41,13 +38,13 @@
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
 凤凰资讯,http://hls-pull-wicketpw.speedws.com/live/Nls4gDvRnnPQMW75ChBYcdDHoXNhDGasZ9toR0LypVUNSceNpy.flv
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
 
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰香港,https://cdn6.cc.cd/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
-凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
 凤凰香港,http://zwg6818.vicp.net:28000/bysid/85
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -59,12 +56,14 @@
 凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
 凤凰香港,http://m.061899.xyz/mg/fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
+凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
 
 无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 无线新闻,http://cc.123.rr.kg/163189/wxxwt
 无线新闻,mitv://135.148.104.228:19806/557d5098116e4e1f9b14008ed764cc71
 无线新闻,rtmp://school.3class.cc/live/yifaTV-125
-无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻,https://cdn6.cc.cd/163189/wxxw
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
@@ -72,6 +71,7 @@
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻,http://rihou.cc:555/tv/[PL]无线新闻
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 无线新闻,http://rihou.cc:555/tv/[SZ]无线新闻
